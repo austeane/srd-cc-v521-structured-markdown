@@ -94,3 +94,14 @@
   - `srd_structured/chapters/`
   - Files `01-legal-information.md` through `13-animals.md`
   - Chapter index: `srd_structured/chapters/README.md`
+
+### 14:16-14:20 PST
+- Created public GitHub repository for distribution:
+  - `https://github.com/austeane/srd-cc-v521-structured-markdown`
+- Prepared a clean publish directory containing:
+  - Chapter markdown files
+  - Combined markdown
+  - Attribution and repository README
+  - Supporting docs (`PLAN`, `WORKLOG`, `QA_SUMMARY`)
+  - Chapter splitter script
+- Initialized git, committed initial content, created remote as public, and pushed `main`.
